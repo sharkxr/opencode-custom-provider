@@ -49,7 +49,6 @@ OCP provides a clean, intuitive graphical interface to manage everything in one 
 | **API Configuration** | Configure API keys and custom Base URLs. |
 | **Model Discovery** | Fetch available models directly from compatible provider APIs. |
 | **Manual Model Setup** | Add models individually using their model IDs. |
-| **Drag & Drop** | Open configuration files by simply dragging them into OCP. |
 | **Portable Application** | Build a standalone Windows executable. |
 | **Bilingual Interface** | Switch between English and Russian. |
 | **Safe Configuration Saving** | Validates configurations and protects against conflicting file changes. |
@@ -73,7 +72,7 @@ OCP automatically looks for your OpenCode configuration at:
 C:\Users\<username>\.config\opencode\opencode.json
 ```
 
-You can also select a configuration file manually or drag and drop it into the window.
+You can also manually select your opencode.json configuration file.
 
 ### 03. Configure your providers
 
