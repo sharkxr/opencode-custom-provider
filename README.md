@@ -1,8 +1,6 @@
  <div align="center">
 
 <img src="assets/ocp-banner.png" alt="OCP — OpenCode Custom Provider" width="100%">
-
-# OCP
 ### OpenCode Custom Provider
 
 **A better way to manage your OpenCode providers.**
